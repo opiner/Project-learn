@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This text was written by me 
 This text was written in the feature-2 branch
+This text was written in the feature-3 branch
+=======
+This text was written by me
+>>>>>>> 897c6815fd2993ba5cdb640c30f79e8db9a4f455
